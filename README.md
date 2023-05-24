@@ -67,15 +67,6 @@ gdown "https://drive.google.com/uc?id=1aL0XIoOQlHf9FBvUx3FMfmPbmRu0-rF-&confirm=
 python predict.py model=yolov8x-seg.pt source="test1.mp4"
 ```
 
-### RESULTS
-
-#### Object Segmentation and DeepSORT Tracking (ID + Trails) and Vehicles Counting
-![](./ultralytics/figure_speed.png)
-
-#### Object Segmentation and DeepSORT Tracking (ID + Trails)
-
-![](./ultralytics/figure2.png)
-
 
 
 

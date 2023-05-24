@@ -2,14 +2,11 @@
 YOLOv8 Segmentation with DeepSORT Object Tracking(ID + Trails) </H1>
 
 ## Google Colab File Link (A Single Click Solution)
-The google colab file link for yolov8 segmentation and tracking is provided below, you can check the implementation in Google Colab, and its a single click implementation
-,you just need to select the Run Time as GPU, and click on Run All.
+El enlace del archivo de google colab para la segmentación y el seguimiento de yolov8 se proporciona a continuación, puede verificar la implementación en Google Colab, y es una implementación de un solo clic
+, solo necesita seleccionar el Tiempo de ejecución como GPU y hacer clic en Ejecutar todo.
 
 [`Google Colab File`](https://colab.research.google.com/drive/1wRkrquf_HMV7tyKy2zDAuqqK9G4zZub5?usp=sharing)
 
-## YouTube Video Tutorial Link
-
-[`YouTube Link`](https://www.youtube.com/watch?v=0JIPNk21ivU)
 
 
 ## YOLOv8 with DeepSORT Object Tracking
@@ -20,9 +17,7 @@ The google colab file link for yolov8 segmentation and tracking is provided belo
 ## Google Colab File Link (A Single Click Solution)
 [`Google Colab File`](https://colab.research.google.com/drive/1cnr9Jjj5Pag5myK6Ny8v5gtHgOqf6uoF?usp=sharing)
 
-## YouTube Video Tutorial Link
 
-[`YouTube Link`](https://www.youtube.com/watch?v=e-uzr2Sm0DA)
 
 ## Steps to run Code
 
@@ -49,7 +44,7 @@ cd ultralytics/yolo/v8/segment
 
 https://drive.google.com/drive/folders/1kna8eWGrSfzaR6DtNJ8_GchGgPMv3VC8?usp=sharing
 ```
-- After downloading the DeepSORT Zip file from the drive, unzip it go into the subfolders and place the deep_sort_pytorch folder into the ultralytics/yolo/v8/segment folder
+- Después de descargar el archivo Zip de DeepSORT de la unidad, descomprímalo, vaya a las subcarpetas y coloque la carpeta deep_sort_pytorch en la carpeta ultralytics/yolo/v8/segment
 
 - Downloading a Sample Videos from the Google Drive
 - Demo Video 1
@@ -81,9 +76,7 @@ python predict.py model=yolov8x-seg.pt source="test1.mp4"
 
 ![](./ultralytics/figure2.png)
 
-### Watch the Complete Step by Step Explanation
 
-- Video Tutorial Link  [`YouTube Link`](https://www.youtube.com/watch?v=0JIPNk21ivU)
 
 
 [![Watch the Complete Tutorial for the Step by Step Explanation](https://img.youtube.com/vi/0JIPNk21ivU/0.jpg)]([https://www.youtube.com/watch?v=0JIPNk21ivU&t=244s](https://www.youtube.com/watch?v=0JIPNk21ivU))

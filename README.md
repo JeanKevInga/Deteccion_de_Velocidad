@@ -1,5 +1,5 @@
 <H1 align="center">
-YOLOv8 Segmentation with DeepSORT Object Tracking(ID + Trails) </H1>
+YOLOv8 Segmentation with DeepSORT Object Tracking(Smart City) </H1>
 
 ## Google Colab File Link (A Single Click Solution)
 El enlace del archivo de google colab para la segmentación y el seguimiento de yolov8 se proporciona a continuación, puede verificar la implementación en Google Colab, y es una implementación de un solo clic
